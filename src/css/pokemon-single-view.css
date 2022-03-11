@@ -1,0 +1,47 @@
+.pokemon-single-view {
+  font-size: 20px;
+}
+
+.pokemon-single-view__h1 {
+  font-family: "Luckiest Guy", cursive;
+  font-size: 50px;
+  color: rgb(218, 0, 29);
+  text-shadow: -1px 0 white, 0 2px white, 1px 0 white, 0 -2px white;
+}
+.pokemon-singl-view__h2 {
+  font-size: 55px;
+  font-family: "Akaya Telivigala", cursive;
+  font-family: "Caveat", cursive;
+  font-family: "Permanent Marker", cursive;
+  color: rgb(37, 14, 153);
+  /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.pokemon-single-view__h3 {
+  font-size: 50px;
+  font-family: "Akaya Telivigala", cursive;
+  font-family: "Caveat", cursive;
+  font-family: "Permanent Marker", cursive;
+  color: rgb(37, 14, 153);
+  /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  text-align: center;
+  margin-right: 25%;
+  margin-bottom: 3%;
+  margin-top: 3%;
+}
+
+.pokemon-single-view__h4 {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  color: rgb(0, 31, 61);
+  font-family: "BioRhyme", serif;
+  font-size: 30px;
+  text-shadow: -1px 0 white, 0 2px white, 1px 0 white, 0 -2px white;
+}
+
+.pokemonSingleView__container {
+  text-align: center;
+  padding-bottom: 10%;
+}

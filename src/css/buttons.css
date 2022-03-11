@@ -1,0 +1,35 @@
+.btn {
+  background: none;
+  border: none;
+  outline: none;
+  font-weight: bold;
+  font-size: inherit;
+  border-radius: 5px;
+  padding: 5px 20px;
+  cursor: pointer;
+}
+
+.btn-pokemon {
+  background: none;
+  border: none;
+  outline: none;
+  font-family: "Akaya Telivigala", cursive;
+  font-family: "Caveat", cursive;
+  font-family: "Permanent Marker", cursive;
+  font-family: "Special Elite", cursive;
+  font-size: 25px;
+  border-radius: 5px;
+  padding: 5px 20px;
+  cursor: pointer;
+}
+
+.btn-reset-search {
+  background: rgb(233, 219, 201);
+  font-weight: bold;
+  font-size: inherit;
+  border-radius: 5px;
+  padding: 5px 20px;
+  cursor: pointer;
+  margin-right: 10%;
+  width: 25%;
+}

@@ -1,0 +1,12 @@
+.pokemon-single-move__h3 {
+  font-size: 40px;
+  font-family: "BioRhyme", serif;
+  color: rgb(10, 4, 41);
+  /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  /* text-align: center; */
+  /* margin-left: 5%; */
+}
+.pokemon-single-move__li {
+  list-style-type: disc;
+}

@@ -1,0 +1,10 @@
+.pokemon-list__container {
+  border-top: 2px solid black;
+  margin-right: 25%;
+  margin-bottom: 20px;
+  padding-top: 25px;
+  padding-bottom: 15%;
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  min-height: 550px;
+}

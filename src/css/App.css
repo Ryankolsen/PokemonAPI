@@ -1,0 +1,8 @@
+@import-normalize;
+@import "font.css";
+@import "poke-home.css";
+@import "buttons.css";
+@import "pokemon-list.css";
+@import "pokemon.css";
+@import "pokemon-single-view.css";
+@import "pokemon-single-move.css";
