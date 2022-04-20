@@ -1,5 +1,5 @@
 # Info
-This is a simple React application that uses Typescript, React Redux and React Router to connect to a Pokemon API, access, mutate, and dsiplay information to a user. 
+This application was built with React, Typescript, React Redux and React Router to connect to a Pokemon API, access, mutate, and display information to a user. 
 
 
 # Getting Started with Create React App
